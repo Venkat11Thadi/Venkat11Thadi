@@ -23,6 +23,7 @@ I'm a Software Engineer 💻, AI-ML Enthusiast 🧠!
 <a href="https://venkatthadi.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
 </br>
 
+<!--
 ## 📈 GitHub Stats:
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Venkat11Thadi)](https://github.com/Venkat11Thadi)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Venkat11Thadi)](https://github.com/Venkat11Thadi)-->
