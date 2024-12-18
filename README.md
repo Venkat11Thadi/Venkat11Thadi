@@ -12,8 +12,9 @@ I'm a Software Engineer 💻, AI-ML Enthusiast 🧠!
 
 ## About me: 
 
-- I’m looking to collaborate on Data Science or Machine Learning.
-- Writes blogs in [Medium](https://venkatthadi.medium.com/).
+- I’m looking to collaborate on Data Science or Machine Learning 🤝.
+- Post articles in [Medium](https://venkatthadi.medium.com/) ✍️.
+- Games 🎮 and Anime freak.
 
 ## Connect with me @:
 
