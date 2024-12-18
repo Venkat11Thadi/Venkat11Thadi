@@ -20,4 +20,4 @@ I’m looking to collaborate on Data Science or Machine Learning!!
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Venkat11Thadi)](https://github.com/Venkat11Thadi)
 
-[//] : #([![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Venkat11Thadi&layout=compact)](https://github.com/Venkat11Thadi))
+[//]: #"[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Venkat11Thadi&layout=compact)](https://github.com/Venkat11Thadi)"
