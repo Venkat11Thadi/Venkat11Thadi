@@ -3,15 +3,12 @@
 </p>
 
 <h1 align="center">
-Hi there, I'm Venkat 👋
+Hi there 👋
 </h1>
-
-<h2 align="center">
-I'm a Software Engineer 💻, AI-ML Enthusiast 🧠!
-</h2> 
 
 ## About me: 
 
+- I'm a Software Engineer 💻, AI-ML Enthusiast 🧠!
 - I’m looking to collaborate on Data Science or Machine Learning 🤝.
 - Post articles in [Medium](https://venkatthadi.medium.com/) ✍️.
 - Games 🎮 and Anime freak.
