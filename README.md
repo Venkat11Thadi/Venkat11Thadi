@@ -10,8 +10,8 @@ Hi there 👋
 
 - I'm a Software Engineer 💻, AI-ML Enthusiast 🧠!
 - I’m looking to collaborate on Data Science or Machine Learning 🤝.
-- Post articles in [Medium](https://venkatthadi.medium.com/) ✍️.
-- Games 🎮 and Anime freak.
+- I post articles in [Medium](https://venkatthadi.medium.com/) ✍️.
+- Gaming 🎮 and Anime freak.
 
 ## Connect with me @:
 
