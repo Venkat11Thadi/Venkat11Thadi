@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/Venkat11Thadi/Venkat11Thadi/blob/main/Black%20Modern%20Personal%20LinkedIn%20Banner.png" alt="my banner"></a>
+<!--   <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/Venkat11Thadi/Venkat11Thadi/blob/main/Black%20Modern%20Personal%20LinkedIn%20Banner.png" alt="my banner"></a> -->
 </p>
 
 <!--<h1 align="center">
