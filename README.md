@@ -20,6 +20,9 @@ Hi there 👋
 <a href="https://venkatthadi.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
 </br>
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="venkat-thadi" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/venkat-thadi?trk=profile-badge">Venkat Thadi</a></div>
+              
+
 <!--
 ## 📈 GitHub Stats:
 
